@@ -1,0 +1,4 @@
+Asif    2    244
+Hussnain    2    228
+Shan    1    102
+Ali    1    54
